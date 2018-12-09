@@ -2,7 +2,7 @@ package main
 
 import (
 	"glog"
-	"rtsp_server"
+	"camera_checker"
 )
 
 func main() {
